@@ -1,0 +1,20 @@
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\bin\Debug\Read names+marks from a file and store in arrays.exe
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\bin\Debug\Read names+marks from a file and store in arrays.pdb
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\bin\Debug\Read names+marks from a file and store in arrays.xml
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\obj\x86\Debug\Read_names_marks_from_a_file_and_store_in_arrays.Resources.resources
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\obj\x86\Debug\Read names+marks from a file and store in arrays.exe
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\obj\x86\Debug\Read names+marks from a file and store in arrays.xml
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read names+marks from a file and store in arrays\obj\x86\Debug\Read names+marks from a file and store in arrays.pdb
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\obj\x86\Debug\Read names+marks from a file and store in arrays.exe
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\obj\x86\Debug\Read names+marks from a file and store in arrays.xml
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\obj\x86\Debug\Read names+marks from a file and store in arrays.pdb
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\bin\Debug\Read names+marks from a file and store in arrays.exe
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\bin\Debug\Read names+marks from a file and store in arrays.pdb
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\bin\Debug\Read names+marks from a file and store in arrays.xml
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\obj\x86\Debug\Read_names_marks_from_a_file_and_store_in_arrays.Resources.resources
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read names+marks from a file and store in arrays\Read names+marks from a file and store in arrays\obj\x86\Debug\GenerateResource.write.1.tlog
