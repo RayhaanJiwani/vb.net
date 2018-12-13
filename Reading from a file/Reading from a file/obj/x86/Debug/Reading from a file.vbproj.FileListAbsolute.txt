@@ -1,0 +1,13 @@
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\bin\Debug\Reading from a file.exe
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\bin\Debug\Reading from a file.pdb
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\bin\Debug\Reading from a file.xml
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\obj\x86\Debug\Reading_from_a_file.Resources.resources
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\obj\x86\Debug\Reading from a file.exe
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\obj\x86\Debug\Reading from a file.xml
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Reading from a file\obj\x86\Debug\Reading from a file.pdb
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Reading from a file\Reading from a file\obj\x86\Debug\Reading from a file.exe
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Reading from a file\Reading from a file\obj\x86\Debug\Reading from a file.xml
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Reading from a file\Reading from a file\obj\x86\Debug\Reading from a file.pdb
