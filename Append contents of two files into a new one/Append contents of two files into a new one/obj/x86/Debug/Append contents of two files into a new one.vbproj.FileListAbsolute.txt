@@ -1,0 +1,10 @@
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\bin\Debug\Append contents of two files into a new one.exe
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\bin\Debug\Append contents of two files into a new one.pdb
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\bin\Debug\Append contents of two files into a new one.xml
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\obj\x86\Debug\Append_contents_of_two_files_into_a_new_one.Resources.resources
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\obj\x86\Debug\Append contents of two files into a new one.exe
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\obj\x86\Debug\Append contents of two files into a new one.xml
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Append contents of two files into a new one\Append contents of two files into a new one\obj\x86\Debug\Append contents of two files into a new one.pdb
