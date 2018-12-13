@@ -1,0 +1,20 @@
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\obj\x86\Debug\Automorphic_Number_Checker.Resources.resources
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\bin\Debug\Automorphic Number Checker.exe
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\bin\Debug\Automorphic Number Checker.pdb
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\bin\Debug\Automorphic Number Checker.xml
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\obj\x86\Debug\Automorphic Number Checker.exe
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\obj\x86\Debug\Automorphic Number Checker.xml
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Automorphic Number Checker\obj\x86\Debug\Automorphic Number Checker.pdb
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\obj\x86\Debug\Automorphic Number Checker.exe
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\obj\x86\Debug\Automorphic Number Checker.xml
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\obj\x86\Debug\Automorphic Number Checker.pdb
+C:\Users\rayhaan.jiwani\Documents\Visual Studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\bin\Debug\Automorphic Number Checker.exe
+C:\Users\rayhaan.jiwani\Documents\Visual Studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\bin\Debug\Automorphic Number Checker.pdb
+C:\Users\rayhaan.jiwani\Documents\Visual Studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\bin\Debug\Automorphic Number Checker.xml
+C:\Users\rayhaan.jiwani\Documents\Visual Studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rayhaan.jiwani\Documents\Visual Studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\obj\x86\Debug\Automorphic_Number_Checker.Resources.resources
+C:\Users\rayhaan.jiwani\Documents\Visual Studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rayhaan.jiwani\Documents\Visual Studio 2010\Projects\Automorphic Number Checker\Automorphic Number Checker\obj\x86\Debug\GenerateResource.write.1.tlog
