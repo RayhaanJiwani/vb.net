@@ -1,0 +1,10 @@
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\bin\Debug\Merge sentences into a new file.exe
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\bin\Debug\Merge sentences into a new file.pdb
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\bin\Debug\Merge sentences into a new file.xml
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\obj\x86\Debug\Merge_sentences_into_a_new_file.Resources.resources
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\obj\x86\Debug\Merge sentences into a new file.exe
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\obj\x86\Debug\Merge sentences into a new file.xml
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Merge sentences into a new file\Merge sentences into a new file\obj\x86\Debug\Merge sentences into a new file.pdb
