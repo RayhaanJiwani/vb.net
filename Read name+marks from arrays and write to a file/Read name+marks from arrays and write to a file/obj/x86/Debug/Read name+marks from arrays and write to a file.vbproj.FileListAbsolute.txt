@@ -1,0 +1,13 @@
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\bin\Debug\Read name+marks from arrays and write to a file.exe
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\bin\Debug\Read name+marks from arrays and write to a file.pdb
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\bin\Debug\Read name+marks from arrays and write to a file.xml
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\obj\x86\Debug\Read_name_marks_from_arrays_and_write_to_a_file.Resources.resources
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\obj\x86\Debug\Read name+marks from arrays and write to a file.exe
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\obj\x86\Debug\Read name+marks from arrays and write to a file.xml
+C:\Users\rayhaan.jiwani\AppData\Local\Temporary Projects\Read name+marks from arrays and write to a file\obj\x86\Debug\Read name+marks from arrays and write to a file.pdb
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read name+marks from arrays and write to a file\Read name+marks from arrays and write to a file\obj\x86\Debug\Read name+marks from arrays and write to a file.exe
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read name+marks from arrays and write to a file\Read name+marks from arrays and write to a file\obj\x86\Debug\Read name+marks from arrays and write to a file.xml
+C:\Users\rayhaan.jiwani\documents\visual studio 2010\Projects\Read name+marks from arrays and write to a file\Read name+marks from arrays and write to a file\obj\x86\Debug\Read name+marks from arrays and write to a file.pdb
